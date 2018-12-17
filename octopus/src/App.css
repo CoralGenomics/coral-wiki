@@ -73,8 +73,8 @@ a:hover {
   padding: 20px;
   font-size: 12px;
   line-height: 1.4;
-  border-right: 1px solid #e6d02e;
-  background: #05a7d6;
+  border-right: 1px solid #05a7d6;
+  background: #000;
   max-height: 100vh;
   overflow: auto;
   flex-shrink: 0;
@@ -160,7 +160,7 @@ a:hover {
   font-size: 10px;
   font-weight: bold;
   margin-left: 6px;
-  color: #000;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -169,7 +169,7 @@ a:hover {
 }
 .app__menu__container > ul > li > ul > li > ul > li a.active, .app__menu__container > ul > li > ul > li > ul > li a.active {
   font-weight: bold;
-  color: #000;
+  color: #ffffff;
 }
 
 .app__logo {
