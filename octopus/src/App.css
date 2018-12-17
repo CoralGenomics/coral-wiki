@@ -86,7 +86,7 @@ a:hover {
 }
 .app__menu__options,
 .app__menu .app__menu__options a {
-  color: #b3ab64;
+  color: #d9f9ff;
 }
 
 .app__wrapper--edit-mode .app__menu {
@@ -102,7 +102,7 @@ a:hover {
 }
 .app__menu--made-by,
 .app__menu .app__menu--made-by a {
-  color: #b1a538;
+  color: #d9f9ff;
 }
 .app__menu--made-by img {
   height: 26px;
@@ -111,7 +111,7 @@ a:hover {
 }
 .app__menu a,
 .app__menu__container > ul > li > ul, .app__menu__container > ul > li > details > ul {
-  color: #d34352;
+  color: #c7ffd5;
 }
 .app__menu__container > ul {
   font-size: 16px;
@@ -148,7 +148,7 @@ a:hover {
 .app__menu__container > ul > li > ul > li > ul, .app__menu__container > ul > li > details > ul > li > ul {
   margin: 5px 0 0 5px;
   font-size: 12px;
-  color: #b1a538;
+  color: #d9f9ff;
 }
 .app__menu__container > ul > li > ul > li > ul > li, .app__menu__container > ul > li > details > ul > li > ul > li {
   padding: 2px 0;
@@ -165,7 +165,7 @@ a:hover {
 }
 
 .app__menu__container > ul > li > ul > li > ul > li a, .app__menu__container > ul > li > ul > li > ul > li a {
-  color: #b1a538;
+  color: #d9f9ff;
 }
 .app__menu__container > ul > li > ul > li > ul > li a.active, .app__menu__container > ul > li > ul > li > ul > li a.active {
   font-weight: bold;
