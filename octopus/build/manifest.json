@@ -1,0 +1,15 @@
+{
+  "short_name": "Coral Wiki",
+  "name": "Internal knowledge base",
+  "icons": [
+    {
+      "src": "./static/coral-180px.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#05a7d6",
+  "background_color": "#ffffff"
+}

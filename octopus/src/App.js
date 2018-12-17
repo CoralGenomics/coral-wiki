@@ -269,7 +269,7 @@ class App extends Component {
             <NavLink to="/online">Show people online</NavLink>
           </p>
           <div className="app__logo">
-            <NavLink to="/"><img className="octopus" src="/static/octopus.png" alt="" /></NavLink>
+            <NavLink to="/"><img className="octopus" src="/static/coral-180px.png" alt="" /></NavLink>
           </div>
 
           {!this.state.menu &&
@@ -287,10 +287,7 @@ class App extends Component {
             </div>
           }
 
-          <div className="app__menu--made-by">
-            <p>Made by <a href="https://www.livechatinc.com/?utm_source=octopus&utm_medium=menu" target="_blank" rel="noopener noreferrer"><img className="octopus" src="/static/livechat.png" alt="" /></a></p>
-            <p>See <a href="https://github.com/livechat/octopus" target="_blank" rel="noopener noreferrer">Octopus on GitHub</a></p>
-          </div>
+
         </div>
 
         <div className="app__content">
