@@ -4,7 +4,6 @@ export default {
     authDomain: "coral-wiki.firebaseapp.com",
     databaseURL: "https://coral-wiki.firebaseio.com",
     projectId: "coral-wiki",
-    storageBucket: "",
+    storageBucket: "coral-wiki.appspot.com",
     messagingSenderId: "915632792107"
- 
 };
